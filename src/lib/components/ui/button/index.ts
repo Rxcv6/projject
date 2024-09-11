@@ -12,7 +12,7 @@ const buttonVariants = tv({
 				"border-input bg-background hover:bg-accent hover:text-accent-foreground border",
 			secondary: "bg-secondary text-secondary-foreground ",
 			ghost: "text-white transition hover:translate-y-2   scale-95 ",
-			link: "text-primary underline-offset-4 hover:underline",
+			link: "text-white text-2xl md:text-4xl underline-offset-4 hover:underline",
 		},
 		size: {
 			default: "h-10 px-4 py-2",

@@ -38,14 +38,14 @@
   </div>
   <div class="h-[30rem] flex justify-center items-center mx-auto">
     <Button
-      class="bg-transparent flex justify-center items-center text-4xl"
+      class="bg-transparent flex justify-center items-center text-2xl md:text-4xl"
       href=" https://redstonecalculator.netlify.app/"
       target="true"
       >Try it!
     </Button>
   </div>
   <div
-    class="blockk text-white flex justify-center ml-6 text-2xl md:text-4xl mx-0 pt-64"
+    class="blockk text-white flex justify-center ml-6  text-2xl md:text-4xl mx-0 pt-64"
   >
     It was a good project and I had fun making it
   </div>
@@ -63,26 +63,26 @@
     />
   </div>
   <div class="blockk text-white flex justify-center text-4xl pt-96"></div>
-  <div class="blockk text-white flex justify-center text-4xl pt-96">
+  <div class="blockk text-white flex justify-center text-2xl  md:text-4xl pt-96">
     A wonderful To-Do list I love it
   </div>
 
   <div class="h-[30rem] flex justify-center items-center mx-auto">
     <Button
-      class="bg-transparent flex justify-center items-center text-4xl"
+      class="bg-transparent flex justify-center items-center text-2xl md:text-4xl "
       href=" https://redstonetodolist.netlify.app/"
       target="true"
       >Try it!
     </Button>
   </div>
 
-  <div class="blockk text-white flex justify-center text-4xl pt-96">
+  <div class="blockk text-white flex justify-center text-2xl  md:text-4xl pt-96">
     And now to the last project but not for while
   </div>
-  <div class="blockk text-white flex justify-center text-4xl pt-96">
-    <a href=" https://red-badr.netlify.app/">
+  <div  class="blockk text-white flex justify-center text-4xl pt-96">
+    <a href=" https://red-badr.netlify.app/" target="_blank">
       <!-- svelte-ignore a11y-img-redundant-alt -->
-      <img
+      <img 
         src="das.png"
         alt="photo  "
         class=" object-cover h-[20rem] md:h-[40rem]"
@@ -90,14 +90,23 @@
     >
     <!-- svelte-ignore a11y-img-redundant-alt -->
   </div>
-  <div class="blockk text-white flex justify-center text-4xl pt-96">
+  <div class="blockk text-white flex justify-center text-2xl  md:text-4xl pt-96">
     My first personal website
   </div>
-  <div class="blockk text-white flex justify-center text-4xl mb-36 pt-96">
+  <div class="blockk text-white flex justify-center text-2xl  md:text-4xl mb-36 pt-96">
     I don't want to be a narcissist, but this is the best personal website
   </div>
 
-  <div class="blockk text-white flex justify-center py-96 text-4xl">
+  <div class="blockk text-white flex justify-center py-96 text-2xl  md:text-4xl">
     In the end, I hope you liked my site and thanks.
+  </div>
+  <div class="blockk text-white flex justify-center py-96  text-2xl md:text-4xl">
+    My Instagram: <Button
+      variant="link"
+      href="https://www.instagram.com/1iav1/"
+      class="hover:text-[#624ac2] transition-all pb-3 md:mt-1"
+    >
+      1iav1
+    </Button>
   </div>
 </div>
